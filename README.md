@@ -1,1 +1,1 @@
-# NIPS paper implementation challenge
+# Data science pipeline
